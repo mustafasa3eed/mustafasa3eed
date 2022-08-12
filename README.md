@@ -1,18 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mustafa Saeed</h1>
+<h3 align="center">A passionate mobile app developer from Egypt</h3>
 
-<!--
-**mustafasa3eed/mustafasa3eed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafasa3eed&label=Profile%20views&color=0e75b6&style=flat" alt="mustafasa3eed" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafasa3eed" alt="mustafasa3eed" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafasa3eed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<p align="left"> <a href="https://twitter.com/mustafasa3eed" target="blank"><img src="https://img.shields.io/twitter/follow/mustafasa3eed?logo=twitter&style=for-the-badge" alt="mustafasa3eed" /></a> </p>
 
--->
+- 🌱 I’m currently learning **Flutter and Dart**
+
+- 📫 How to reach me **mustafasa3eed98@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mustafasa3eed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafasa3eed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mustafasa3eed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mustafasa3eed" height="30" width="40" /></a>
+<a href="https://instagram.com/mustafasa3eed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafasa3eed" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafasa3eed&show_icons=true&locale=en&layout=compact" alt="mustafasa3eed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafasa3eed&show_icons=true&locale=en" alt="mustafasa3eed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafasa3eed&" alt="mustafasa3eed" /></p>
