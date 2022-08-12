@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 📫 How to reach me **mustafasa3eed98@gmail.com**
-![readme gif](https://user-images.githubusercontent.com/32793634/184329843-288c5f2b-4911-4fea-9daf-52ac76b9c449.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +17,8 @@
 <a href="https://stackoverflow.com/users/mustafasa3eed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mustafasa3eed" height="30" width="40" /></a>
 <a href="https://instagram.com/mustafasa3eed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafasa3eed" height="30" width="40" /></a>
 </p>
+
+![readme gif](https://user-images.githubusercontent.com/32793634/184329843-288c5f2b-4911-4fea-9daf-52ac76b9c449.gif)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
