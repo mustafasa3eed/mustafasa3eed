@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 📫 How to reach me **mustafasa3eed98@gmail.com**
+![readme gif](https://user-images.githubusercontent.com/32793634/184329843-288c5f2b-4911-4fea-9daf-52ac76b9c449.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
